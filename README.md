@@ -1,5 +1,5 @@
 # BanklineAPI 
-Projeto desenvolvido para o Santander Dev Week em 4 dias!🔥 <br>
+Projeto desenvolvido para o Santander Dev Week!🔥 <br>
 Proposta: Desenvolvimento de uma API Rest para criação de extratos bancários do Santander.
 
 # Tecnologias utilizadas
