@@ -4,5 +4,5 @@ Proposta: Desenvolvimento de uma API Rest para criação de extratos bancários 
 
 # Tecnologias utilizadas
 - Modelagem e desenvolvimento de uma API REST usando Java e Spring Boot. 
-- Publicação em nuvem (Heroku), para que nossos clientes possam consumi-la através da Internet.
+- Publicação em nuvem (Heroku), para tornar possível o consumo através da Internet.
 - Deploy disponível em: https://dio-bankline-api-dev-week.herokuapp.com/swagger-ui/index.html#/
